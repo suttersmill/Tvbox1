@@ -1,9 +1,9 @@
 {
 "urls":[
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ifkid/Free-TVUrl/main/out/tvbox.txt","name":"ifkid_Free-TVUrl"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/li5bo5/tvbox/main/0426.json","name":"li5bo5-0426"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/fj.json","name":"Guard-H线路"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json","name":"cyao2q-n线路"},
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/ifkid/Free-TVUrl/main/out/tvbox.txt","name":"ifkid_Free-TVUrl"},
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/li5bo5/tvbox/main/0426.json","name":"li5bo5-0426"},
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/Guard-H/tvbox/main/fj.json","name":"Guard-H线路"},
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/cyao2q/files/master/n.json","name":"cyao2q-n线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json","name":"cyao2q-m线路"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"2哈社区线路1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json","name":"2哈社区线路2"},
